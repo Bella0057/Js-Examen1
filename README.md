@@ -1,2 +1,2 @@
 # Js-Examen1
-Exámen 1, clase JS
+Exámen 1, Maquetación
